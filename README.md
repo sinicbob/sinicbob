@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinicbob
+- 👋 Hi, I’m $_ini
 - 👀 I’m a QA Engineer
 
 <!---
