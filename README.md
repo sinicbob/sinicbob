@@ -1,5 +1,5 @@
 - 👋 Hi, I’m $_ini
-- 👀 I’m a QA Engineer
+- 👀 I’m a QA Engineer / AQA Engineer
 
 <!---
 sinicbob/sinicbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
